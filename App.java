@@ -10,6 +10,7 @@ public class App
         System.out.println( 1+2*1 );// 1-feature2
         System.out.println( 1+2*1 );// 2-feature2
         System.out.println( 1+2*1 );// 3-feature2
+        System.out.println( 1+2*1 );// merge-feature2
         
         System.out.println( 1+2*1 );// 1-feature1
         System.out.println( 1+2*1 );// 2-feature1
